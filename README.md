@@ -1,76 +1,102 @@
 # 👋 Hi, I'm Debraj Mukherjee
 
 🎓 B.Tech | Mechanical Engineering | NIT Durgapur (2023–2027)  
-💡 AI/ML | Generative AI | Voice Tech | Full-Stack | Product Builder  
-📍 Durgapur, India | 📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/debrajm)
+💡 AI/ML | Generative AI | Voice Tech | Full-Stack | Quantum Computing  
+📍 Durgapur, India  
+📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/debrajm)
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I'm a technologist passionate about solving real-world problems using **AI, machine learning, and full-stack development**.  
-Currently focused on building products that blend **automation, intelligence, and human-like interaction**.
+I'm a technologist building the future of automation through **AI, machine learning, and full-stack development** — with hands-on experience in **voice agents, digital ads, and quantum computing**.
 
-- 🧠 **Founding Member @ Brabble.ai** – Building AI-powered voice agents that automate customer calls using speech synthesis, analytics, and NLP.
-- 🚀 **Co-Founder @ Valcify** – Helping startups scale fast through digital product development and full-stack engineering.
-- 🧪 **AI/ML Engineer @ Advista.live** – Innovating in ad optimization and campaign intelligence using data-driven models.
-
----
-
-## ⚙️ Core Technical Skills
-
-- **Languages:** Python, C++, JavaScript  
-- **AI/ML:** YOLO, OpenCV, TensorFlow, scikit-learn, LangChain, LLMs  
-- **Backend:** FastAPI, Node.js, MongoDB, Firebase  
-- **Frontend:** React.js, TailwindCSS, HTML/CSS  
-- **DevOps & Tools:** Git, Docker, Postman, Figma, Notion  
+🚀 Currently:
+- 🗣️ **Brabble.ai** – AI-powered voice automation for businesses (Founding Member)
+- ⚙️ **Valcify** – Digital product agency for startups & scaleups (Co-Founder)
+- 🤖 **Advista.live** – ML-powered ad tech optimization (AI/ML Engineer)
+- ⚛️ **LifeScienceInsights360** – Quantum internship (Hybrid protein modeling using VQE/QAOA)
 
 ---
 
-## 🚀 Projects & Tech Involvement
+## 🧪 Featured Projects
 
-### 🗣️ Brabble.ai  
-> AI voice agents for SMBs – voice automation, real-time analytics, and human-like interaction powered by NLP & speech synthesis.  
-- Built using FastAPI, Python, ElevenLabs API, and MongoDB.  
-- Supports transcription, intent detection, and sentiment analysis.
+### 🗣️ Brabble.ai – AI Voice Agents  
+> Built an AI IVR system with human-like speech, sentiment detection & call analytics  
+**Stack:** Python, FastAPI, MongoDB, ElevenLabs API, AssemblyAI  
 
-### 🛠️ YOLO-based Defect Detection (Internship Project)  
-> Developed a computer vision pipeline using **YOLOv5** to detect welding defects in MIG welds with high accuracy.  
-- Focused on **parameter tuning, annotation, and model evaluation**.  
-- Applied **data augmentation and image preprocessing** for improved generalization.
+### 🎯 Advista.live – AdTech Intelligence  
+> Built AI models for ad targeting, keyword clustering & marketing automation  
+**Stack:** scikit-learn, Pandas, Flask, GPT APIs, Google Ads API  
 
-### 📊 Advista.live – AI Marketing Automation  
-> Deployed AI models for **ad targeting, keyword intelligence, and campaign analytics**.  
-- Integrated with digital marketing tools to **automate strategy refinement** using ML insights.  
-- Built data pipelines for continuous training and feedback loops.
+### 🔧 MIG Welding Defect Detection  
+> Developed a YOLOv5-based CV model to detect defects in MIG welding from annotated image datasets  
+**Focus:** Annotation, augmentation, model tuning, result evaluation  
+
+### ⚛️ Quantum Computing Internship  
+> Researched hybrid quantum-classical models for protein structure prediction  
+- Used **VQE** and **QAOA** algorithms for molecular simulation  
+- Tools: Qiskit, Pennylane, NumPy, Matplotlib  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🤖 AI / ML / Quantum
+
+![YOLO](https://img.shields.io/badge/YOLOv5-FF4081?style=for-the-badge&logo=openCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🏆 Highlights
 
-- 🔍 Flipkart Grid 6.0 – Robotics Challenge Qualifier  
+- ⚙️ Flipkart Grid 6.0 – Robotics Challenge (Level 1 Qualifier)  
 - 🧠 ML Fiesta Hackathon – Synergy'24 Participant  
-- 💻 Completed Quantum-Classical Modeling Internship (VQE & QAOA for protein folding)  
-- 📈 86% client conversion in business outreach using CRM automation  
-- 💬 Speaker & Coordinator @ E-Cell NIT Durgapur & Hult Prize
+- ⚛️ Internship in Quantum-Classical Hybrid Simulation  
+- 📊 86% conversion rate in B2B client onboarding (HungryFolksMedia)  
+- 🌍 Marketing & Strategy Coordinator @ Hult Prize, E-Cell NIT DGP  
 
 ---
 
-## 📚 Education
+## 📈 GitHub Stats
 
-**NIT Durgapur**  
-_B.Tech in Mechanical Engineering (2023–2027)_
+![Debraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebrajMukherjee&show_icons=true&theme=react&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebrajMukherjee&layout=compact&theme=react&hide_border=true)
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I’m always looking to collaborate on:
-- AI tools for automation or marketing
-- Full-stack SaaS MVPs
-- ML-powered voice tech
-- Hackathons and open-source AI/ML projects
+I'm always excited to connect on:
+- AI/ML products & tools
+- Generative AI & conversational interfaces
+- Full-stack MVPs & SaaS tools
+- Quantum algorithms or hybrid simulations
 
-Let’s connect:  
-📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/debrajm)
+📫 [Email me](mailto:debrajm2204@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/debrajm)
 
+---
