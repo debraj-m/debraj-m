@@ -80,11 +80,12 @@ I'm a technologist building the future of automation through **AI, machine learn
 - 🌍 Marketing & Strategy Coordinator @ Hult Prize, E-Cell NIT DGP  
 
 ---
-
 ## 📈 GitHub Stats
 
-![Debraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebrajMukherjee&show_icons=true&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebrajMukherjee&layout=compact&theme=react&hide_border=true)
+![Debraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debraj-m&show_icons=true&theme=react&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-m&layout=compact&theme=react&hide_border=true)
+
 
 ---
 
