@@ -1,61 +1,76 @@
 # 👋 Hi, I'm Debraj Mukherjee
 
-## 🚀 About Me
-I'm a **B.Tech student at NIT Durgapur (Batch '27)** with a strong passion for **Machine Learning, Generative AI, and Competitive Programming**. My journey started with **competitive programming**, which enhanced my problem-solving skills, and I now apply that knowledge to **AI and ML**.
-
-🔹 **Flipkart Grid 6.0 Pre-Nationalist**  
-🔹 **Entrepreneurship Development Cell, NIT Durgapur - Junior Coordinator**  
-🔹 **Competitive Programmer with expertise in DSA & Algorithms**
+🎓 B.Tech | Mechanical Engineering | NIT Durgapur (2023–2027)  
+💡 AI/ML | Generative AI | Voice Tech | Full-Stack | Product Builder  
+📍 Durgapur, India | 📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/debrajm)
 
 ---
 
-## 🎯 Experience
+## 🧠 Who Am I?
 
-### **🚀 AI/ML Intern - Advista.live (Jan 2025 - Present)**
-- Working on AI-powered marketing solutions for Google & Meta Ads.
-- Developing data-driven models to enhance ad performance.
+I'm a technologist passionate about solving real-world problems using **AI, machine learning, and full-stack development**.  
+Currently focused on building products that blend **automation, intelligence, and human-like interaction**.
 
-### **💻 Quantum Computing & Computational Modeling Intern - LifeScienceInsights360 (Feb 2025 - Present)**
-- Researching quantum computing applications in life sciences.
-
-### **📊 Business Development Intern - HungryFolksMedia (Dec 2024 - Present)**
-- Conducting market research and analyzing industry trends.
-- Handling client outreach and business development strategies.
-
-### **🎯 Marketing & Communications Coordinator - Hult Prize Foundation (Aug 2024 - Present)**
-- Leading marketing campaigns and managing stakeholder communication.
-
-### **🌟 Campus Ambassador - E-Cell, IIT Bombay (July 2024 - Present)**
-- Driving student engagement and promoting entrepreneurship.
+- 🧠 **Founding Member @ Brabble.ai** – Building AI-powered voice agents that automate customer calls using speech synthesis, analytics, and NLP.
+- 🚀 **Co-Founder @ Valcify** – Helping startups scale fast through digital product development and full-stack engineering.
+- 🧪 **AI/ML Engineer @ Advista.live** – Innovating in ad optimization and campaign intelligence using data-driven models.
 
 ---
 
-## 🛠 Skills & Expertise
-- **Machine Learning & Generative AI**
-- **Data Structures & Algorithms**
-- **Competitive Programming**
-- **Quantum Computing Research**
-- **Marketing & Business Development**
+## ⚙️ Core Technical Skills
+
+- **Languages:** Python, C++, JavaScript  
+- **AI/ML:** YOLO, OpenCV, TensorFlow, scikit-learn, LangChain, LLMs  
+- **Backend:** FastAPI, Node.js, MongoDB, Firebase  
+- **Frontend:** React.js, TailwindCSS, HTML/CSS  
+- **DevOps & Tools:** Git, Docker, Postman, Figma, Notion  
 
 ---
 
-## 🎓 Education
-🎓 **National Institute of Technology, Durgapur** (2023 - 2027)  
-📚 **B.Tech in Mechanical Engineering**
+## 🚀 Projects & Tech Involvement
+
+### 🗣️ Brabble.ai  
+> AI voice agents for SMBs – voice automation, real-time analytics, and human-like interaction powered by NLP & speech synthesis.  
+- Built using FastAPI, Python, ElevenLabs API, and MongoDB.  
+- Supports transcription, intent detection, and sentiment analysis.
+
+### 🛠️ YOLO-based Defect Detection (Internship Project)  
+> Developed a computer vision pipeline using **YOLOv5** to detect welding defects in MIG welds with high accuracy.  
+- Focused on **parameter tuning, annotation, and model evaluation**.  
+- Applied **data augmentation and image preprocessing** for improved generalization.
+
+### 📊 Advista.live – AI Marketing Automation  
+> Deployed AI models for **ad targeting, keyword intelligence, and campaign analytics**.  
+- Integrated with digital marketing tools to **automate strategy refinement** using ML insights.  
+- Built data pipelines for continuous training and feedback loops.
 
 ---
 
-## 🏆 Certifications
-📜 **Flipkart Grid 6.0 - Robotics Challenge (Level 1)**  
-📜 **Kharagpur Data Science Hackathon 2025**  
-📜 **ML-Fiesta: AI/ML Hackathon of Synergy'24**  
-📜 **HP Power Lab Online Assessment**  
+## 🏆 Highlights
+
+- 🔍 Flipkart Grid 6.0 – Robotics Challenge Qualifier  
+- 🧠 ML Fiesta Hackathon – Synergy'24 Participant  
+- 💻 Completed Quantum-Classical Modeling Internship (VQE & QAOA for protein folding)  
+- 📈 86% client conversion in business outreach using CRM automation  
+- 💬 Speaker & Coordinator @ E-Cell NIT Durgapur & Hult Prize
 
 ---
 
-## 📫 Connect with Me
-💼 **LinkedIn:** [debrajm](https://www.linkedin.com/in/debrajm)  
-📧 **Email:** debrajm2204@gmail.com  
-📂 **GitHub:** [debraj-m](https://github.com/debraj-m)
+## 📚 Education
 
-Let's connect and build something amazing! 🚀
+**NIT Durgapur**  
+_B.Tech in Mechanical Engineering (2023–2027)_
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m always looking to collaborate on:
+- AI tools for automation or marketing
+- Full-stack SaaS MVPs
+- ML-powered voice tech
+- Hackathons and open-source AI/ML projects
+
+Let’s connect:  
+📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/debrajm)
+
