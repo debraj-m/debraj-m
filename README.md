@@ -8,13 +8,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a builder at heart — passionate about using **AI, voice tech, full-stack engineering, and quantum algorithms** to solve real-world problems.
+Hi! I'm Debraj — a tech-driven builder, problem-solver, and startup enthusiast.
 
-- 🧠 **Founding Member @ Brabble.ai** – Voice-based AI agents for call automation
-- 🚀 **Co-Founder @ Valcify** – Helping startups scale with digital product strategy
-- 🤖 **AI Engineer @ Advista.live** – Automating ad optimization using ML
-- ⚛️ **Quantum Intern @ LifeScienceInsights360** – Built quantum-classical hybrid models using VQE and QAOA
-- 🔍 YOLOv5-based vision pipeline for defect detection in MIG welding
+💡 I specialize in building AI-first products with a strong focus on **speech interfaces**, **machine learning**,**development** and **quantum computation**. I'm currently pursuing my B.Tech in **Mechanical Engineering** from **NIT Durgapur** (2023–2027).
+
+### 🌟 Current Roles
+- 🗣️ **Founding Member** @ [Brabble.ai](https://brabble.ai) – Voice AI platform for automating customer calls using NLP, speech synthesis, and real-time analytics.
+- 🚀 **Co-Founder** @ Valcify – Full-stack product development for startups and enterprises.
+- 🧠 **AI/ML Engineer** @ Advista.live – Enhancing ad targeting and campaign automation using data-driven intelligence.
+- ⚛️ **Quantum Intern** @ LifeScienceInsights360 – Quantum-classical hybrid research for protein folding simulations using Qiskit.
 
 ---
 
@@ -49,6 +51,35 @@ I’m a builder at heart — passionate about using **AI, voice tech, full-stack
 
 ---
 
+## 🧪 Featured Projects
+
+### 🔊 Brabble.ai – AI Voice Agents
+> Replacing call centers with AI voice agents for SMBs  
+Built human-like conversational agents that automate customer support and outbound sales calls with sentiment analysis & call logs.
+
+### 🎯 Advista.live – Ad Intelligence
+> Created ML-based automation for ad optimization  
+Engineered ML pipelines for audience segmentation, ROI prediction, and campaign reporting.
+
+### 🛠 YOLOv5 Defect Detection – MIG Welding
+> Built a real-time computer vision system to detect MIG weld defects  
+Utilized YOLOv5 + OpenCV + custom annotation pipeline to improve defect classification accuracy.
+
+### ⚛️ Protein Folding via Quantum Models
+> Internship research project using Qiskit (IBM Quantum Lab)  
+Built and tested variational quantum circuits (VQE & QAOA) for molecular simulation in protein structure prediction.
+
+---
+
+## 🏆 Highlights & Awards
+
+- 🧠 **Flipkart Grid 6.0 – Pre-Nationalist** (Top 79 All over India)  
+- 🧪 **HP Power lab- Semi-Finalist** (Top 180 among 1,30,000 participants)  
+- 🎯 **86% conversion rate** in B2B client onboarding @ HungryFolksMedia 
+- 🌍 **Marketing Lead @ Hult Prize NIT Durgapur**  
+- 🧪 **ML Fiesta Hackathon – Synergy’24** 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -58,14 +89,17 @@ I’m a builder at heart — passionate about using **AI, voice tech, full-stack
 
 ---
 
-## 📌 Let's Connect
+## 📫 Connect with Me
 
-📬 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/debrajm)  
-🌐 [GitHub](https://github.com/debraj-m)
+<p align="center">
+  <a href="mailto:debrajm2204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/debrajm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/debraj-m"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debraj-m&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=debraj-m&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
+
