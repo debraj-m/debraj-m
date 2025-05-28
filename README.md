@@ -1,104 +1,54 @@
 # 👋 Hi, I'm Debraj Mukherjee
 
-🎓 B.Tech | Mechanical Engineering | NIT Durgapur (2023–2027)  
-💡 AI/ML | Generative AI | Voice Tech | Full-Stack | Quantum Computing  
-📍 Durgapur, India  
-📫 [debrajm2204@gmail.com](mailto:debrajm2204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/debrajm)
+![Profile views](https://komarev.com/ghpvc/?username=debraj-m&label=Profile%20views&color=0e75b6&style=flat)
 
----
+## 🎓 About Me
 
-## 🧠 About Me
+I'm a B.Tech student at NIT Durgapur (Batch '27) with a strong passion for Machine Learning, Generative AI, and Competitive Programming. My journey began with competitive programming, enhancing my problem-solving skills, which I now apply to AI and ML.
 
-I'm a technologist building the future of automation through **AI, machine learning, and full-stack development** — with hands-on experience in **voice agents, digital ads, and quantum computing**.
+- 🚀 Flipkart Grid 6.0 Pre-Nationalist  
+- 🧠 Entrepreneurship Development Cell, NIT Durgapur - Junior Coordinator  
+- ⚙️ Competitive Programmer with expertise in DSA & Algorithms  
 
-🚀 Currently:
-- 🗣️ **Brabble.ai** – AI-powered voice automation for businesses (Founding Member)
-- ⚙️ **Valcify** – Digital product agency for startups & scaleups (Co-Founder)
-- 🤖 **Advista.live** – ML-powered ad tech optimization (AI/ML Engineer)
-- ⚛️ **LifeScienceInsights360** – Quantum internship (Hybrid protein modeling using VQE/QAOA)
-- ⚙️ **IIT Kharagpur** – AI-ML Intern 
----
+## 💼 Experience
 
-## 🧪 Featured Projects
+### AI/ML Intern - Advista.live (Jan 2025 - Present)
+- Developing AI-powered marketing solutions for Google & Meta Ads.
+- Creating data-driven models to enhance ad performance.
 
-### 🗣️ Brabble.ai – AI Voice Agents  
-> Built an AI IVR system with human-like speech, sentiment detection & call analytics  
-**Stack:** Python, FastAPI, MongoDB, ElevenLabs API, AssemblyAI  
+### Quantum Computing & Computational Modeling Intern - LifeS
+- [Details about your role and responsibilities at LifeS]
 
-### 🎯 Advista.live – AdTech Intelligence  
-> Built AI models for ad targeting, keyword clustering & marketing automation  
-**Stack:** scikit-learn, Pandas, Flask, GPT APIs, Google Ads API  
+## 🛠️ Skills & Tools
 
-### 🔧 MIG Welding Defect Detection  
-> Developed a YOLOv5-based CV model to detect defects in MIG welding from annotated image datasets  
-**Focus:** Annotation, augmentation, model tuning, result evaluation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### ⚛️ Quantum Computing Internship  
-> Researched hybrid quantum-classical models for protein structure prediction  
-- Used **VQE** and **QAOA** algorithms for molecular simulation  
-- Tools: Qiskit, Pennylane, NumPy, Matplotlib  
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debraj-m&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-m&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
-## 🛠 Tech Stack & Tools
+## 🔥 GitHub Streak
 
-### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debraj-m&theme=dracula&hide_border=true" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🏆 GitHub Trophies
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debraj-m&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-### 🤖 AI / ML / Quantum
+## 📫 Let's Connect
 
-![YOLO](https://img.shields.io/badge/YOLOv5-FF4081?style=for-the-badge&logo=openCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🏆 Highlights
-
-- ⚙️ Flipkart Grid 6.0 – Pre-Nationalist (Top 79 in all over India)  
-- 🧠 ML Fiesta Hackathon – Synergy'24 Participant
-- ⚙️ HP Power Lab - Semi-finalist(Top 180 among 1,30,000 participants)
-- ⚛️ Internship in Quantum-Classical Hybrid Simulation  
-- 📊 86% conversion rate in B2B client onboarding (HungryFolksMedia)  
-- 🌍 Marketing & Strategy Coordinator @ Hult Prize, E-Cell NIT DGP  
-
----
-## 📈 GitHub Stats
-
-![Debraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debraj-m&show_icons=true&theme=react&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-m&layout=compact&theme=react&hide_border=true)
-
-
----
-
-## 🤝 Let’s Collaborate
-
-I'm always excited to connect on:
-- AI/ML products & tools
-- Generative AI & conversational interfaces
-- Full-stack MVPs & SaaS tools
-- Quantum algorithms or hybrid simulations
-
-📫 [Email me](mailto:debrajm2204@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/debrajm)
-
----
+- [LinkedIn](www.linkedin.com/in/debrajm)
+- [Email](mailto:debrajm2204@gmail.com)
