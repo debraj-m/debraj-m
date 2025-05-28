@@ -16,7 +16,7 @@ I'm a technologist building the future of automation through **AI, machine learn
 - ⚙️ **Valcify** – Digital product agency for startups & scaleups (Co-Founder)
 - 🤖 **Advista.live** – ML-powered ad tech optimization (AI/ML Engineer)
 - ⚛️ **LifeScienceInsights360** – Quantum internship (Hybrid protein modeling using VQE/QAOA)
-
+- ⚙️ **IIT Kharagpur** – AI-ML Intern 
 ---
 
 ## 🧪 Featured Projects
@@ -73,8 +73,9 @@ I'm a technologist building the future of automation through **AI, machine learn
 
 ## 🏆 Highlights
 
-- ⚙️ Flipkart Grid 6.0 – Robotics Challenge (Level 1 Qualifier)  
-- 🧠 ML Fiesta Hackathon – Synergy'24 Participant  
+- ⚙️ Flipkart Grid 6.0 – Pre-Nationalist (Top 79 in all over India)  
+- 🧠 ML Fiesta Hackathon – Synergy'24 Participant
+- ⚙️ HP Power Lab - Semi-finalist(Top 180 among 1,30,000 participants)
 - ⚛️ Internship in Quantum-Classical Hybrid Simulation  
 - 📊 86% conversion rate in B2B client onboarding (HungryFolksMedia)  
 - 🌍 Marketing & Strategy Coordinator @ Hult Prize, E-Cell NIT DGP  
