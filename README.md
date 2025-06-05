@@ -1,24 +1,14 @@
-<h1 align="center">Hi 👋, I'm Debraj Mukherjee</h1>
+<h1 align="center">Hi, I'm Debraj Mukherjee <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1EE6C9&center=true&width=1000&lines=AI+Engineer+%7C+Voice+Tech+Builder;Quantum+Computing+%7C+YOLOv5+%7C+ML+Pipeline+Designer;Full-Stack+Developer+%7C+Python+%7C+FastAPI+%7C+MongoDB;+Valcify+%7C+Brabble.ai+%7C+NIT+Durgapur" alt="Typing SVG" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-Hi! I'm Debraj — a tech-driven builder, problem-solver, and startup enthusiast.
+Hi! I'm Debraj - a tech-driven builder, problem-solver, and startup enthusiast.
 
 💡 I specialize in building AI-first products with a strong focus on **speech interfaces**, **machine learning**,**development** and **quantum computation**. I'm currently pursuing my B.Tech in **Mechanical Engineering** from **NIT Durgapur** (2023–2027).
-
-### 🌟 Current Roles
-- 🗣️ **Founding Member** @ [Brabble.ai](https://brabble.ai) – Voice AI platform for automating customer calls using NLP, speech synthesis, and real-time analytics.
-- 🚀 **Co-Founder** @ Valcify – Full-stack product development for startups and enterprises.
-- 🧠 **AI/ML Engineer** @ Advista.live – Enhancing ad targeting and campaign automation using data-driven intelligence.
-- ⚛️ **Quantum Intern** @ LifeScienceInsights360 – Quantum-classical hybrid research for protein folding simulations using Qiskit.
-
----
 
 ## 🔧 Tech Stack
 
@@ -78,13 +68,14 @@ Built and tested variational quantum circuits (VQE & QAOA) for molecular simulat
 - 🎯 **86% conversion rate** in B2B client onboarding @ HungryFolksMedia 
 - 🌍 **Marketing Lead @ Hult Prize NIT Durgapur**  
 - 🧪 **ML Fiesta Hackathon – Synergy’24** 
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debraj-m&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-m&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debraj-m&hide_border=true&theme=react" width="48%" />
 </p>
 
 ---
@@ -102,4 +93,3 @@ Built and tested variational quantum circuits (VQE & QAOA) for molecular simulat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=debraj-m&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
-
