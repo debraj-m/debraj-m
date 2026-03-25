@@ -1,26 +1,34 @@
-# Hi there! 👋 I'm Debraj
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI-First+Product+Builder+%F0%9F%A4%96;Speech+Interface+Specialist+%F0%9F%8E%A4;Quantum+Computing+Researcher+%E2%9A%9B%EF%B8%8F;Machine+Learning+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Debraj%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-First%20Product%20Builder%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&lines=AI-First+Product+Builder+%F0%9F%A4%96;Speech+Interface+Specialist+%F0%9F%8E%A4;Machine+Learning+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%9A%80;Computer+Vision+Researcher+%F0%9F%94%AC;Building+the+Future+with+AI+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+---
 
 ## 🚀 About Me
 
 > *"Building the future, one AI product at a time"*
 
-I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** specializing in AI-first products with a strong focus on speech interfaces, machine learning, and quantum computation. Currently pursuing B.Tech in Mechanical Engineering at **NIT Durgapur** (2023–2027).
+I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** specializing in AI-first products with a strong focus on speech interfaces and machine learning. Currently pursuing B.Tech in Mechanical Engineering at **NIT Durgapur** (2023–2027).
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎯 What I Do
 - 🤖 **AI Voice Agents** - Replacing call centers with intelligent conversational AI
 - 📊 **ML Automation** - Building smart systems for business optimization
 - 🔬 **Computer Vision** - Real-time defect detection and quality control
-- ⚛️ **Quantum Computing** - Researching quantum algorithms for molecular simulation
+- 🧠 **Deep Learning** - Designing transformer architectures and neural networks
 - 🌐 **Full-Stack Development** - Creating end-to-end solutions
 
 <br clear="right"/>
@@ -73,14 +81,14 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 
 ---
 
-### ⚛️ Quantum Computing Research
-**Variational Quantum Algorithms for Molecular Simulation**
+### 🧠 FlowBot
+**Intelligent Workflow Automation powered by LLMs**
 <br>
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM%20Quantum-1261A0?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/VQE-E91E63?style=for-the-badge&logo=quantum&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-*Built and optimized VQE & QAOA circuits for protein structure prediction research*
+*Automates complex multi-step business workflows using LLM reasoning with tool-use and memory*
 
 </div>
 
@@ -110,10 +118,6 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### ⚛️ Quantum Computing
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-1261A0?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
@@ -146,6 +150,22 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debraj-m&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debraj-m&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debraj-m/debraj-m/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debraj-m/debraj-m/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/debraj-m/debraj-m/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 🌟 What I'm Currently Working On
 
 <div align="center">
@@ -153,16 +173,16 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 ```mermaid
 graph TD
     A[🚀 Current Focus] --> B[AI Voice Agents]
-    A --> C[Quantum ML Research]
+    A --> C[Deep Learning Research]
     A --> D[Computer Vision Systems]
     
     B --> B1[Speech Recognition]
     B --> B2[NLP & Sentiment Analysis]
     B --> B3[Call Center Automation]
     
-    C --> C1[VQE Algorithms]
-    C --> C2[Molecular Simulation]
-    C --> C3[Protein Structure Prediction]
+    C --> C1[Transformer Architectures]
+    C --> C2[Reinforcement Learning]
+    C --> C3[Generative AI]
     
     D --> D1[Real-time Defect Detection]
     D --> D2[Industrial Quality Control]
@@ -171,10 +191,10 @@ graph TD
 
 </div>
 
-- 🔬 **Research**: Advancing quantum algorithms for molecular simulation
 - 🤖 **Product Development**: Scaling AI voice agents for enterprise clients
-- 📚 **Learning**: Advanced reinforcement learning and transformer architectures
-- 🌍 **Open Source**: Contributing to quantum computing and AI communities
+- 🧠 **Research**: Advancing deep learning and transformer architectures
+- 📚 **Learning**: Advanced reinforcement learning and generative AI
+- 🌍 **Open Source**: Contributing to AI and machine learning communities
 
 ## 🌐 Let's Connect!
 
@@ -185,15 +205,18 @@ graph TD
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### 💭 *"The future belongs to those who learn more skills and combine them in creative ways"* - Robert Greene
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<img src="https://komarev.com/ghpvc/?username=debraj-m&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### 💭 *"The future belongs to those who learn more skills and combine them in creative ways"* — Robert Greene
+
+<img src="https://komarev.com/ghpvc/?username=debraj-m&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 
 **⭐ From [debraj-m](https://github.com/debraj-m) | Building the future with AI 🤖**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
