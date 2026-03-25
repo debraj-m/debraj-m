@@ -12,7 +12,7 @@
 
 > *"Building the future, one AI product at a time"*
 
-I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** specializing in AI-first products with a strong focus on speech interfaces, machine learning, and quantum computation. Currently pursuing B.Tech in Mechanical Engineering at **NIT Durgapur** (2023–2027).
+I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** specializing in AI-first products with a strong focus on speech interfaces and machine learning. Currently pursuing B.Tech in Mechanical Engineering at **NIT Durgapur** (2023–2027).
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -20,7 +20,6 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 - 🤖 **AI Voice Agents** - Replacing call centers with intelligent conversational AI
 - 📊 **ML Automation** - Building smart systems for business optimization
 - 🔬 **Computer Vision** - Real-time defect detection and quality control
-- ⚛️ **Quantum Computing** - Researching quantum algorithms for molecular simulation
 - 🌐 **Full-Stack Development** - Creating end-to-end solutions
 
 <br clear="right"/>
@@ -73,15 +72,6 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 
 ---
 
-### ⚛️ Quantum Computing Research
-**Variational Quantum Algorithms for Molecular Simulation**
-<br>
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM%20Quantum-1261A0?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/VQE-E91E63?style=for-the-badge&logo=quantum&logoColor=white" />
-
-*Built and optimized VQE & QAOA circuits for protein structure prediction research*
-
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -110,10 +100,6 @@ I'm a **tech-driven builder**, **problem-solver**, and **startup enthusiast** sp
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### ⚛️ Quantum Computing
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-1261A0?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
